@@ -1,49 +1,56 @@
-# 👋 Bienvenida a mi perfil
+# 👋 Hola, soy Isabel
 
-Soy Isabel Figueroa, ingeniera Consultora en transformación digital, con experiencia en recursos humanos, automatización de procesos y desarrollo de soluciones con IA y datos. En este perfil encontrarás:
-
-
-- 🧩 Mis proyectos personales
-- 🧠 Herramientas que uso y recomiendo
-- 📊 Tecnologías aplicadas en RRHH y gestión pública
+Ingeniera y consultora en transformación digital y automatización de procesos. Combino ingeniería en recursos humanos con inteligencia artificial, Power BI y desarrollo de soluciones eficientes para facilitar decisiones estratégicas.
 
 ---
 
-## 🚀 Proyectos propios
+## 🚀 Proyectos personales
 
-- 🔹 [VisorPdfApp](https://github.com/isabelarentsen/VisorPdfApp)  
-  Aplicación de escritorio en React y Electron para visualizar, rotar, firmar y editar archivos PDF sin conexión. Enfoque minimalista y funcional.
+- 🔹 [VisorPdfApp](https://github.com/IsabelFigueroaV/VisorPdfApp)  
+  Aplicación de escritorio hecha con React y Electron. Permite visualizar, firmar y editar archivos PDF sin conexión, con enfoque minimalista.
 
-- 🔹 [conectadata](https://github.com/isabelarentsen/conectadata)  
-  Sitio profesional publicado con GitHub Pages. Enlace directo: [isabelfigueroav.github.io/conectadata](https://isabelfigueroav.github.io/conectadata/)
+- 🔹 [conectadata](https://github.com/IsabelFigueroaV/conectadata)  
+  Repositorio base del sitio web profesional, con contenidos sobre automatización, IA aplicada a RRHH y soluciones prácticas.
 
----
-
-## 📁 Repositorios recomendados
-
-- 🧠 [openai/openai-python](https://github.com/openai/openai-python): Cliente oficial de OpenAI para integrar modelos GPT con Python.
-- 📊 [microsoft/PowerBI-visuals](https://github.com/microsoft/PowerBI-visuals): Desarrollo de visualizaciones personalizadas en Power BI.
-- 🧾 [suno-ai/bark](https://github.com/suno-ai/bark): Generador de voz por IA multilingüe con resultados naturales.
-- 💬 [vercel/next.js](https://github.com/vercel/next.js): Framework moderno de React para apps web eficientes.
-- 📦 [electron/electron](https://github.com/electron/electron): Framework base para apps de escritorio modernas (como VisorPdfApp).
+- 🔹 [🌐 Sitio web: conectadata](https://isabelfigueroav.github.io/conectadata/)  
+  Proyecto desplegado con GitHub Pages, enfocado en liderazgo digital, visualización de datos y herramientas de transformación.
 
 ---
 
-## 🧰 Tecnologías y enfoques
+## 📁 Repositorios y herramientas que admiro
 
-- Power BI para análisis y visualización de RRHH.
-- Python para automatización documental y validación de datos.
-- Excel con macros inteligentes para control y eficiencia.
+- [openai/openai-python](https://github.com/openai/openai-python): Cliente oficial de OpenAI.
+- [microsoft/PowerBI-visuals](https://github.com/microsoft/PowerBI-visuals): Visualizaciones personalizadas para Power BI.
+- [electron/electron](https://github.com/electron/electron): Framework de escritorio moderno.
+- [vercel/next.js](https://github.com/vercel/next.js): Framework React escalable y eficiente.
+- [suno-ai/bark](https://github.com/suno-ai/bark): Generador de voz natural con IA.
+
+---
+
+## 📊 Tecnologías que uso
+
+- Power BI para análisis de RRHH, dotación y licencias.
+- Python + Excel para automatización documental e informes.
+- Macros inteligentes para control de datos.
 - React + Electron para aplicaciones de escritorio sin conexión.
 
 ---
 
-## 🌐 Enlaces
+## 💬 Algo más personal
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/isabelfigueroav/?utm_medium=social&utm_source=landing&utm_campaign=perfil)
-- 🌍 [Sitio web profesional](https://isabelfigueroav.github.io/conectadata/)
+🐾 Me inspira la tecnología, pero también las pequeñas cosas: como Tom, mi gato tricolor XXY, silencioso, observador y lleno de personalidad. Es parte de mi equipo diario.  
+✨ Creo que ChatGPT ha mostrado al mundo el potencial transformador de la IA generativa, captando la atención global y desatando una ola de creatividad sin precedentes.  
+📡 Perspectiva: creo en aprovechar la mente colmena — conectar inteligencias humanas y artificiales para resolver desafíos complejos con colaboración real.  
+☕ Fan del café, las ideas claras y los flujos de trabajo bien pensados.
 
 ---
 
-📌 *Este perfil está en constante mejora. Pronto más herramientas e integraciones para optimizar procesos profesionales.*
+## 🌐 Encuéntrame también
+
+- 💼 [LinkedIn: Isabel Figueroa V.](https://www.linkedin.com/in/isabelfigueroav/?utm_medium=social&utm_source=landing&utm_campaign=perfil)
+- 🌍 [Sitio web: conectadata](https://isabelfigueroav.github.io/conectadata/)
+
+---
+
+📌 *Este perfil se actualiza constantemente. Siempre hay algo en desarrollo que mezcla datos, automatización y propósito.*
 
