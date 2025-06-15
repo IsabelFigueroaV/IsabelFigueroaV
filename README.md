@@ -47,22 +47,3 @@ Soy Isabel Figueroa, ingeniera Consultora en transformación digital, con experi
 
 📌 *Este perfil está en constante mejora. Pronto más herramientas e integraciones para optimizar procesos profesionales.*
 
-
-
-
-
-
-
-
-
-
-
-
-## 🌐 Enlaces
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/isabelfigueroav/?utm_medium=social&utm_source=landing&utm_campaign=perfil)
-- 🌍 [Sitio web profesional](https://isabelfigueroav.github.io/conectadata/)
-
----
-
-📌 *Este perfil está en constante mejora, incorporando nuevas herramientas e integraciones para optimizar procesos profesionales.*  
