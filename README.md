@@ -32,7 +32,7 @@ Ingeniera y consultora en transformación digital y automatización de procesos.
 - Power BI para análisis de RRHH, dotación y licencias.
 - Python + Excel para automatización documental e informes.
 - Macros inteligentes para control de datos.
-- React + Electron para aplicaciones de escritorio sin conexión.
+- React + Electron para aplicaciones de escritorio.
 
 ---
 
@@ -45,7 +45,7 @@ Ingeniera y consultora en transformación digital y automatización de procesos.
 
 ---
 
-## 🌐 Encuéntrame también
+## 📍 ¿Dónde encontrarme? 
 
 - 💼 [LinkedIn: Isabel Figueroa V.](https://www.linkedin.com/in/isabelfigueroav/?utm_medium=social&utm_source=landing&utm_campaign=perfil)
 - 🌍 [Sitio web: conectadata](https://isabelfigueroav.github.io/conectadata/)
