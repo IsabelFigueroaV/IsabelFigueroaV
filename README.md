@@ -1,4 +1,6 @@
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 # 👋 Hola, soy Isabel
+
 
 Ingeniera y consultora en transformación digital y automatización de procesos. Combino ingeniería en recursos humanos con inteligencia artificial, Power BI y desarrollo de soluciones eficientes para facilitar decisiones estratégicas.
 
