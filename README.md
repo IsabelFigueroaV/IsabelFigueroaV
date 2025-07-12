@@ -1,13 +1,9 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-# 👋 Hola, soy Isabel
+# 👋 Hola, soy Isabel, Ingeniera, apasionada por desarrollar soluciones tecnológicas con foco en usabilidad, eficiencia y valor estratégico.
 
 
 <div style="margin: 2em 0;"></div>
-
-## Ingeniera, apasionada por desarrollar soluciones tecnológicas con foco en usabilidad, eficiencia y valor estratégico.
-
-
 
 
 ## 🛠️ Tecnologías
