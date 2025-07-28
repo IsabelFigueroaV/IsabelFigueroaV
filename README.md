@@ -1,11 +1,11 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-# 👋 Hola, soy Isabel, Ingeniera, apasionada por desarrollar soluciones tecnológicas con foco en usabilidad, eficiencia y valor estratégico.
+#### 👋 Hola, soy Isabel, Ingeniera, apasionada por desarrollar soluciones tecnológicas con foco en usabilidad, eficiencia y valor estratégico.
 
 
 <div style="margin: 2em 0;"></div>
 
-## 🛠️ Stack Tecnológico
+#### 🛠️ Stack Tecnológico
 
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 24px 0;">
   
@@ -23,7 +23,7 @@
 
 ---
 
-## 📍 Contacto
+#### 📍 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/isabelfigueroav/)  
 - 🌍 [Portafolio](https://isabelfigueroav.github.io/conectadata/)  
