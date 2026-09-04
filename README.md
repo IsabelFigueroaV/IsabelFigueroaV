@@ -1,9 +1,9 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="130"/>
 
-<h1 align="center">👋 Hola, soy Isabel Figueroa</h1>
+<h1 align="center">Isabel Figueroa</h1>
 
 <h3 align="center">
-Ingeniera | Consultora | RR.HH. | Business Intelligence | IA aplicada
+Transformación digital | Business Intelligence | IA aplicada a RR.HH.
 </h3>
 
 <p align="center">
@@ -40,29 +40,46 @@ Desarrollo soluciones simples, visuales y útiles para resolver problemas reales
 
 ## 🛠️ Stack tecnológico
 
-### 📊 Business Intelligence & Datos
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📊 BI & Datos</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Tableau-Visualización%20de%20datos-1E5AA8?style=for-the-badge&logo=tableau&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Reporting-Indicadores%20y%20gestión-005B96?style=for-the-badge"/>
+      </p>
+      <sub>Dashboards, indicadores, análisis y reportabilidad ejecutiva.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 IA & Automatización</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-Automatización%20y%20datos-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/IA-Aplicada%20a%20procesos-6A5ACD?style=for-the-badge"/>
+        <br/>
+        <img src="https://img.shields.io/badge/RR.HH.-Reclutamiento%20y%20Selección-0A66C2?style=for-the-badge"/>
+      </p>
+      <sub>Automatización inteligente aplicada a procesos administrativos y RR.HH.</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Soluciones digitales</h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-Desarrollo%20web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/React-Interfaces%20de%20usuario-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Electron-Apps%20de%20escritorio-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+      </p>
+      <sub>Aplicaciones prácticas, formularios digitales y herramientas simples para optimizar procesos.</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-1E5AA8?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reporting-Indicadores%20y%20gestión-005B96?style=for-the-badge"/>
-</p>
-
-### 🤖 Automatización e IA
-
-<p>
-  <img src="https://img.shields.io/badge/Python-Automatización%20y%20datos-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-Aplicada%20a%20procesos-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RR.HH.-Reclutamiento%20y%20Selección-0A66C2?style=for-the-badge"/>
-</p>
-
-### 💻 Desarrollo de herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-Desarrollo%20web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-Interfaces%20de%20usuario-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Electron-Apps%20de%20escritorio-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-Portafolio%20digital-222222?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,electron,git,github,html,css,vscode" />
 </p>
 
 ---
@@ -96,7 +113,9 @@ Proyecto en preparación para apoyar procesos de firma documental y gestión de 
 - Soluciones tecnológicas simples para usuarios no técnicos.
 
 ---
-
+<p align="center">
+  <i>Transformando ideas en soluciones simples, útiles y aplicables.</i>
+</p>
 <p align="center">
   <i>Transformando ideas en soluciones simples, útiles y aplicables.</i>
 </p>
