@@ -86,20 +86,29 @@ Desarrollo soluciones simples, visuales y útiles para resolver problemas reales
 
 ## 📌 Proyectos destacados
 
-### 🌐 Conectadata  
+### 🌐 Conectadata
+
 Landing profesional y portafolio digital orientado a transformación digital, datos, automatización e inteligencia artificial aplicada.
 
-### 🧮 Calculadora de Edad  
-Aplicación de escritorio desarrollada con React y Electron para cálculo exacto de edad, validación de campos y exportación de información.
+### ✉️ Generador de Firmas de Correo
 
-### 📄 VisorPdfApp  
+Aplicación web para crear firmas HTML profesionales con plantillas, fotografía, logotipo, enlaces clicleables y exportación para Gmail y Outlook.
+
+### 🎬 Transcriptor de Video a Texto
+
+Aplicación de escritorio para descargar o cargar videos y transcribirlos localmente con Whisper.
+
+### 🧮 Calculadora de Edad
+
+Aplicación de escritorio desarrollada con React y Electron para calcular la edad, validar fechas y exportar información.
+
+### 📄 Aplicación VisorPdf
+
 Visor local de archivos PDF desarrollado con Electron y React, orientado a revisión documental y uso práctico en escritorio.
 
-### 🧾 Aplicación PDF  
-Herramienta orientada a gestión documental, revisión de archivos y apoyo a procesos administrativos.
+### 🧾 Aplicación PDF
 
-### ✍️ Aplicación de Firma  
-Proyecto en preparación para apoyar procesos de firma documental y gestión de archivos.
+Herramienta orientada a gestión documental, revisión de archivos y apoyo a procesos administrativos.
 
 ---
 
