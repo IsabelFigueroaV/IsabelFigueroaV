@@ -17,15 +17,16 @@ Desarrollo soluciones simples, visuales y útiles para resolver problemas reales
 - Uso de IA aplicada para mejorar productividad, análisis y toma de decisiones.
 
 ---
+
 ## 🛠️ Stack tecnológico
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-1E5AA8?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automatización%20y%20datos-3776AB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Desarrollo%20web-F7DF1E?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Interfaces%20de%20usuario-61DAFB?style=for-the-badge)
-![Electron](https://img.shields.io/badge/Electron-Aplicaciones%20de%20escritorio-47848F?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Portafolio%20digital-222222?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-1E5AA8?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automatización%20y%20datos-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Desarrollo%20web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Interfaces%20de%20usuario-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-Aplicaciones%20de%20escritorio-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Portafolio%20digital-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![IA](https://img.shields.io/badge/IA-Aplicada%20a%20procesos-6A5ACD?style=for-the-badge)
 
 ---
