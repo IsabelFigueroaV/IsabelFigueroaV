@@ -17,7 +17,6 @@ Desarrollo soluciones simples, visuales y útiles para resolver problemas reales
 - Uso de IA aplicada para mejorar productividad, análisis y toma de decisiones.
 
 ---
-
 ## 🛠️ Stack tecnológico
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge)
