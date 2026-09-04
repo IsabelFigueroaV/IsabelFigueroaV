@@ -57,12 +57,11 @@ Proyecto en preparación para gestión y apoyo en procesos de firma documental.
 
 ---
 
-## 🔗 Contacto
+#### 📍 Contacto
 
 - 📧 Email: [isabelfigueroa@rysrrhh.com](mailto:isabelfigueroa@rysrrhh.com)
-- 💼 LinkedIn: [Isabel Figueroa](https://www.linkedin.com/in/isabelfigueroav/)
-- 🌍 Portafolio: [Conectadata](https://isabelfigueroav.github.io/conectadata/)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/isabelfigueroav/)
+- 🌍 [Portafolio](https://isabelfigueroav.github.io/conectadata/)
 ---
 
 *Transformando ideas en soluciones simples, útiles y aplicables.*
