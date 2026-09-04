@@ -117,5 +117,4 @@ Proyecto en preparación para apoyar procesos de firma documental y gestión de 
   <i>Transformando ideas en soluciones simples, útiles y aplicables.</i>
 </p>
 <p align="center">
-  <i>Transformando ideas en soluciones simples, útiles y aplicables.</i>
-</p>
+
