@@ -98,6 +98,10 @@ Aplicación web para crear firmas HTML profesionales con plantillas, fotografía
 
 Aplicación de escritorio para descargar o cargar videos y transcribirlos localmente con Whisper.
 
+### 📊 Motor Dashboard Isabel
+
+Complemento nativo de Excel en VBA para analizar, alinear y auditar dashboards, KPI, gráficos y segmentadores con vista previa y restauración segura.
+
 ### 🧮 Calculadora de Edad
 
 Aplicación de escritorio desarrollada con React y Electron para calcular la edad, validar fechas y exportar información.
