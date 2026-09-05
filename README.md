@@ -10,9 +10,6 @@
 
 <!-- ===================== CONTACTO ===================== -->
 <p align="center">
-  <a href="mailto:isabelfigueroa@rysrrhh.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/isabelfigueroav/">
     <img src="https://img.shields.io/badge/LinkedIn-Isabel%20Figueroa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -25,7 +22,9 @@
 <br/>
 
 <!-- ===================== SOBRE MÍ ===================== -->
-## 👩‍💻 Sobre mí
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0A66C2&height=55&section=header&text=Sobre%20m%C3%AD&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="Sobre mí"/>
+</p>
 
 Ingeniera y consultora en transformación digital, con experiencia en RR.HH., datos, Business Intelligence, automatización de procesos e inteligencia artificial aplicada.
 
@@ -34,7 +33,9 @@ Desarrollo soluciones **simples, visuales y útiles** para resolver problemas re
 <br/>
 
 <!-- ===================== EN QUÉ ESTOY TRABAJANDO ===================== -->
-## 🚀 En qué estoy trabajando
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0A66C2&height=55&section=header&text=En%20qu%C3%A9%20estoy%20trabajando&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="En qué estoy trabajando"/>
+</p>
 
 - 📊 Visualización de datos e inteligencia de negocios con **Power BI** y **Tableau**.
 - 🤖 Automatización con **IA aplicada** a Reclutamiento y Selección, gestión documental y análisis de datos.
@@ -45,7 +46,9 @@ Desarrollo soluciones **simples, visuales y útiles** para resolver problemas re
 <br/>
 
 <!-- ===================== STACK ===================== -->
-## 🛠️ Stack tecnológico
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0A66C2&height=55&section=header&text=Stack%20tecnol%C3%B3gico&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="Stack tecnológico"/>
+</p>
 
 <table>
   <tr>
@@ -83,7 +86,9 @@ Desarrollo soluciones **simples, visuales y útiles** para resolver problemas re
 <br/>
 
 <!-- ===================== ESTADÍSTICAS ===================== -->
-## 📈 Estadísticas de GitHub
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0A66C2&height=55&section=header&text=Estad%C3%ADsticas%20de%20GitHub&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="Estadísticas de GitHub"/>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=IsabelFigueroaV&show_icons=true&hide_border=true&title_color=6366F1&icon_color=0A66C2&text_color=333333&bg_color=FFFFFF&include_all_commits=true"/>
@@ -97,7 +102,9 @@ Desarrollo soluciones **simples, visuales y útiles** para resolver problemas re
 <br/>
 
 <!-- ===================== PROYECTOS ===================== -->
-## 📌 Proyectos destacados
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0A66C2&height=55&section=header&text=Proyectos%20destacados&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="Proyectos destacados"/>
+</p>
 
 | Proyecto | Descripción |
 |:--|:--|
@@ -113,7 +120,9 @@ Desarrollo soluciones **simples, visuales y útiles** para resolver problemas re
 <br/>
 
 <!-- ===================== ÁREAS DE INTERÉS ===================== -->
-## 🎯 Áreas de interés
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0A66C2&height=55&section=header&text=%C3%81reas%20de%20inter%C3%A9s&fontSize=26&fontColor=ffffff&fontAlignY=52" alt="Áreas de interés"/>
+</p>
 
 - Transformación digital en RR.HH. y gestión de personas.
 - Business Intelligence con Power BI y Tableau.
