@@ -83,7 +83,6 @@ Desarrollo soluciones simples, visuales y útiles para resolver problemas reales
 </p>
 
 ---
-
 ## 📌 Proyectos destacados
 
 ### 🌐 Conectadata
@@ -109,10 +108,6 @@ Aplicación de escritorio desarrollada con React y Electron para calcular la eda
 ### 📄 Aplicación VisorPdf
 
 Visor local de archivos PDF desarrollado con Electron y React, orientado a revisión documental y uso práctico en escritorio.
-
-### 🧾 Aplicación PDF
-
-Herramienta orientada a gestión documental, revisión de archivos y apoyo a procesos administrativos.
 
 ---
 
