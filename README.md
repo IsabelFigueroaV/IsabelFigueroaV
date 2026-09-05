@@ -105,6 +105,10 @@ Complemento nativo de Excel en VBA para analizar, alinear y auditar dashboards, 
 
 Aplicación de escritorio desarrollada con React y Electron para calcular la edad, validar fechas y exportar información.
 
+### 📄 Editor PDF
+
+Aplicación de escritorio Flutter para convertir archivos PDF a Word y poder modificarlos, incluso cuando el PDF fue descargado desde Internet.
+
 ### 📄 Aplicación VisorPdf
 
 Visor local de archivos PDF desarrollado con Electron y React, orientado a revisión documental y uso práctico en escritorio.
